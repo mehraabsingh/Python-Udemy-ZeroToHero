@@ -26,7 +26,7 @@ To get started with the course, simply clone this repository to your local machi
 
 ## Resources
 
-- [Udemy Course Link](https://www.udemy.com/course/python-zero-to-hero/)
+- [Udemy Course Link](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=KEEPLEARNING)
 - [Python Documentation](https://docs.python.org/3/)
 - [Python PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
